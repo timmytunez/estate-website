@@ -1,0 +1,10 @@
+/* .box{
+    width: 250px;
+    height: 300px;
+} */
+.list1{
+    width: auto;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px lightgray ;
+}
